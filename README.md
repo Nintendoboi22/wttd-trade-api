@@ -65,37 +65,25 @@ GET /search?q={skin_name}
 ```
 GET https://wttd.trade/api/search?q=dragon
 ```
-
 **Example Response:**
 ```json
 [
   {
-    "id": "skins-123",
-    "name": "Dragon Fire AK-47",
-    "description": "A fierce dragon-themed skin for the AK-47.",
-    "rarity": "Legendary",
-    "limited": true,
-    "robux_price": 599,
-    "community_price": "3.2k",
-    "animated": false,
-    "bullet_VFX": true,
-    "type": "skins",
-    "demand": 8.5
-  },
-  {
-    "id": "skins-456",
-    "name": "Red Dragon M4A4",
-    "description": "A red dragon design for the M4A4.",
-    "rarity": "Epic",
+    "id": "skins-244",
+    "name": "Dragon Skin",
+    "description": "Daily Spin",
+    "rarity": "Special",
     "limited": false,
-    "robux_price": 299,
-    "community_price": "1.8k",
+    "robux_price": 0,
+    "community_price": "Untradable",
     "animated": false,
     "bullet_VFX": false,
     "type": "skins",
-    "demand": 7.1
+    "demand": 0
   }
 ]
+```
+```
 ```
 
 ### Query Examples
