@@ -1,6 +1,4 @@
-# War Tycoon Trading Database (WTTD) API
-
-<p align="center">
+# War Tycoon Trading Database (WTTD) API <p align="center">
   <img src="https://wttd.trade/logo.png" alt="WTTD Logo" width="100"/>
 </p>
 
@@ -579,5 +577,6 @@ The API uses standard HTTP status codes:
 
 ## Notes
 
-This was made with claude as I have to go on a trip and am not taking my laptop. 
-Tuxuis has not expanded on the public api that much and I do not know if the main api will become available for the public. Mainly because im not on the WTTD team anymore 
+- This was made with claude as I have to go on a trip and am not taking my laptop. 
+- Tuxuis has not expanded on the public api that much and I do not know if the main api will become available for the public. Mainly because im not on the WTTD team anymore (mb).
+- If you learn of more information, please expand on this repo.
