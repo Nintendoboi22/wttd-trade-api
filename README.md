@@ -1,6 +1,10 @@
-# War Tycoon Trading Database API
+# War Tycoon Trading Database (WTTD) API
 
-A search API for finding skin information in the War Tycoon Trading Database.
+<p align="center">
+  <img src="https://wttd.trade/logo.png" alt="WTTD Logo" width="100"/>
+</p>
+
+API documentation for WTTD
 
 ## Table of Contents
 
@@ -576,4 +580,4 @@ The API uses standard HTTP status codes:
 ## Notes
 
 This was made with claude as I have to go on a trip and am not taking my laptop. 
-Tuxuis has not expanded on the public api that much and i do not know if the main api will become available publicly
+Tuxuis has not expanded on the public api that much and I do not know if the main api will become available for the public. Mainly because im not on the WTTD team anymore 
