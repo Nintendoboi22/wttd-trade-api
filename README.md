@@ -573,12 +573,7 @@ The API uses standard HTTP status codes:
 4. **Caching**: Consider caching results for frequently searched terms to reduce API calls
 5. **Respectful Usage**: Don't make excessive requests; implement reasonable delays between requests
 
-## Future Enhancements
+## Notes
 
-This documentation will be updated as new endpoints and features become available. Potential future additions may include:
-
-- Additional search filters (rarity, price range, category)
-- Pagination for large result sets
-- Authentication for advanced features
-- Real-time price updates
-- Historical price data
+This was made with claude as I have to go on a trip and am not taking my laptop. 
+Tuxuis has not expanded on the public api that much and i do not know if the main api will become available publicly
