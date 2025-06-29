@@ -42,14 +42,6 @@ https://wttd.trade/api
 - `/items/price-history?limit=<number>` - Get price history data (limit determines number of items, each with full history)
 - `/top-items?filter=<medals or robux>` - Get top items (filter is optional)
 
-## Authentication
-
-Currently, no authentication is required for any of the endpoints.
-
-## Rate Limiting
-
-Please be respectful with your requests. While no specific rate limits are documented, avoid making excessive requests to prevent overloading the service.
-
 # Endpoints
 
 ## Search Skins
