@@ -8,8 +8,6 @@ API documentation for WTTD
 
 - [Overview](#overview)
 - [Base URL](#base-url)
-- [Authentication](#authentication)
-- [Rate Limiting](#rate-limiting)
 - [Endpoints](#endpoints)
   - [Search Skins](#search-skins)
   - [Price History](#price-history)
@@ -565,7 +563,7 @@ The API uses standard HTTP status codes:
 2. **Handle Empty Results**: The API returns an empty array when no skins match the query
 3. **Error Handling**: Implement proper error handling for network issues and API errors
 4. **Caching**: Consider caching results for frequently searched terms to reduce API calls
-5. **Respectful Usage**: Don't make excessive requests; implement reasonable delays between requests
+5. **Respectful Usage**: Don't make excessive requests; implement reasonable delays between requests. mainly bc tux's sever isnt the best (kidding)
 
 ## Notes
 
